@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Flutter, C#**
 
-- 💬 Ask me about **HTML5, CSS, SaSS/ScSS, Bootstrap, JScript, SQL/MySQL, PHP**
+- 💬 Ask me about **HTML5, CSS, SaSS/ScSS, Bootstrap, JScript, SQL/MySQL, PHP, C/C++**
 
 - 📫 How to reach me **gokhansucsuzgermany@gmail.com**
 
