@@ -1,7 +1,6 @@
 <h1 align="justify">### All I Know Is That I Know Nothing 👋</h1>
 <h1 align="justify">Hi 👋, I'm Gökhan SUÇSUZ...</h1>
 <h3 align="justify">I'm a computer engineer from Turkiye... Although I worked outside the field after computer education, I have not been able to break away from the software field since 2009. As of 2023, I graduated as a computer engineer. I continue to improve myself. I am currently continuing my fullstack developer training since 01 May 2023. (https://coder.com.tr/) </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolpisces&label=Profile%20views&color=0e75b6&style=flat" alt="coolpisces" /> </p>
 
 - 🌱 I’m currently learning **React, Typescript, Node.js ***
