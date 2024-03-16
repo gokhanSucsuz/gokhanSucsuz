@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolpisces&label=Profile%20views&color=0e75b6&style=flat" alt="coolpisces" /> </p>
 
-- 🌱 I’m currently learning **React, Flutter, C#**
+- 🌱 I’m currently learning **React, Typescript, Node.js ***
 
-- 💬 Ask me about **HTML5, CSS, SaSS/ScSS, Bootstrap, JScript, MSSQL, MySQL, PHP
+- 💬 Ask me about **HTML5, CSS, SaSS/ScSS, Bootstrap, Javascript, React, Typescript, MSSQL, MySQL, PHP
 
 - 📫 How to reach me **gokhansucsuzgermany@gmail.com**
 
