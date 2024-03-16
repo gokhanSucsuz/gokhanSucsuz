@@ -16,7 +16,8 @@
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="markdown" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- (https://github.com/gokhanSucsuz/gokhanSucsuz/assets/11310915/f63c3544-3ac8-4000-9d67-1d52ac58bd19)
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gokhanSucsuz/gokhanSucsuz/assets/11310915/f63c3544-3ac8-4000-9d67-1d52ac58bd19" alt="typescript" width="40" height="40"/> </a> 
+ 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
