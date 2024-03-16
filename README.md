@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Typescript, Node.js ***
 
-- 💬 Ask me about **HTML5, CSS, SaSS/ScSS, Bootstrap, Javascript, React, Typescript, MSSQL, MySQL, PHP
+- 💬 Ask me about **HTML5, CSS, SaSS/ScSS, Bootstrap5, Javascript, React, Typescript, MSSQL, MySQL, PHP
 
 - 📫 How to reach me **gokhansucsuzgermany@gmail.com**
 
