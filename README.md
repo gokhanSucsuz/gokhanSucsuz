@@ -1,48 +1,37 @@
-<h1 align="justify">### All I Know Is That I Know Nothing 👋</h1>
-<h1 align="justify">Hi 👋, I'm Gökhan SUÇSUZ...</h1>
-<h3 align="justify">I'm a computer engineer from Turkiye... Although I worked outside the field after computer education, I have not been able to break away from the software field since 2009. As of 2023, I graduated as a computer engineer. I continue to improve myself. I am currently continuing my fullstack developer training since 01 May 2023. (https://coder.com.tr/) </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coolpisces&label=Profile%20views&color=0e75b6&style=flat" alt="coolpisces" /> </p>
+### About Me
 
-- 🌱 I’m currently learning ** Node.js, Firebase, MongoDB ***
+👋 Hi there! I'm Gökhan, a passionate Frontend Developer with a keen eye for creating engaging and user-friendly web applications. My expertise lies in building dynamic and responsive interfaces using modern web technologies.
 
-- 💬 Ask me about **HTML5, CSS, SaSS/ScSS, Bootstrap5, MaterialUI Components, Javascript, React, Redux, Typescript, MSSQL, MySQL, PHP
+### Skills
 
-- 📫 How to reach me **gokhansucsuzgermany@gmail.com**
+- **Languages & Frameworks**: JavaScript, TypeScript, React, Next.js
+- **Styling**: TailwindCSS, Bootstrap 5, HTML5, CSS, Sass/SCSS, MaterialUI
+- **State Management**: Redux, Zustand
+- **Databases**: MSSQL, MySQL, Firebase, MongoDB
+- **Backends**: Node.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" alt="markdown" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gokhanSucsuz/gokhanSucsuz/assets/11310915/f63c3544-3ac8-4000-9d67-1d52ac58bd19" alt="typescript" width="40" height="40"/></a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>  
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> 
-  
-  
-   
-  
-  
-  
-  
-  
- 
- 
-  
-  
-  
+### What I Do
 
-  
+🔹 **Dynamic Frontend Development**: Specializing in React and Next.js, I create scalable and performant web applications. I focus on clean, maintainable code and exceptional user experiences.
 
+🔹 **Styling & Design**: With TailwindCSS, Bootstrap 5, and MaterialUI, I build visually appealing interfaces that are both responsive and intuitive.
 
+🔹 **State Management**: Proficient in Redux and Zustand, I manage complex state and data flows efficiently, ensuring smooth and reactive user interactions.
 
+🔹 **Database Integration**: Experienced with various databases including MSSQL, MySQL, Firebase, and MongoDB, I develop robust backend solutions to support dynamic frontend needs.
 
+Lifelong Learner
+📚 Always Learning: I'm enthusiastic about learning new technologies and constantly expanding my skill set. Currently, I'm improving my English proficiency to better collaborate in international environments and keep up with the latest industry trends.
+
+### Projects
+
+Check out some of my projects to see my work in action:
+
+Review my repository...
+
+### Get in Touch
+
+I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
+
+- **Email**: gokhansucsuzgermany@gmail.com, coolpisces22@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/gokhan-sucsuz-0912a4173/
