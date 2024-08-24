@@ -1,30 +1,29 @@
 ### About Me
-
-👋 Hi there! I'm Gökhan, a passionate Frontend Developer with a keen eye for creating engaging and user-friendly web applications. My expertise lies in building dynamic and responsive interfaces using modern web technologies.
+👋 Hi there! I'm Gökhan, a passionate Fullstack Developer with a strong focus on creating comprehensive and user-friendly web applications. My expertise spans both frontend and backend technologies, allowing me to build robust and dynamic applications from start to finish.
 
 ### Skills
-
-- **Languages & Frameworks**: JavaScript, TypeScript, React, Next.js
-- **Styling**: TailwindCSS, Bootstrap 5, HTML5, CSS, Sass/SCSS, MaterialUI
-- **State Management**: Redux, Zustand
-- **Databases**: MSSQL, MySQL, Firebase, MongoDB
-- **Backends**: Node.js
+Frontend Development: JavaScript, TypeScript, React, Next.js
+Styling: TailwindCSS, Bootstrap5, HTML5, CSS, Sass/SCSS, MaterialUI, shadcn
+State Management: Redux, Zustand, RTQ
+Backend Development: Node.js, Express.js
+Databases: MSSQL, MySQL, Firebase, MongoDB
+Version Control & CI/CD: Git, GitHub
 
 ### What I Do
+🔹 Fullstack Development: Specializing in both frontend and backend, I create end-to-end web applications that are scalable, secure, and performant. My approach emphasizes clean, maintainable code and exceptional user experiences.
 
-🔹 **Dynamic Frontend Development**: Specializing in React and Next.js, I create scalable and performant web applications. I focus on clean, maintainable code and exceptional user experiences.
+🔹 Frontend Excellence: Using React, Next.js, and modern styling frameworks like TailwindCSS and MaterialUI, I build visually appealing and responsive user interfaces.
 
-🔹 **Styling & Design**: With TailwindCSS, Bootstrap 5, and MaterialUI, I build visually appealing interfaces that are both responsive and intuitive.
+🔹 Backend Mastery: Proficient in Node.js and Express.js, I design and implement robust APIs and backend systems, integrating seamlessly with various databases like MSSQL, MySQL, Firebase, and MongoDB.
 
-🔹 **State Management**: Proficient in Redux and Zustand, I manage complex state and data flows efficiently, ensuring smooth and reactive user interactions.
+🔹 State Management: With Redux and Zustand, I efficiently manage complex state and data flows, ensuring smooth and reactive user interactions.
 
-🔹 **Database Integration**: Experienced with various databases including MSSQL, MySQL, Firebase, and MongoDB, I develop robust backend solutions to support dynamic frontend needs.
+🔹 Cloud & DevOps: I leverage cloud platforms like AWS and containerization tools like Docker to deploy and manage scalable applications, ensuring high availability and performance.
 
-Lifelong Learner
-📚 Always Learning: I'm enthusiastic about learning new technologies and constantly expanding my skill set. Currently, I'm improving my English proficiency to better collaborate in international environments and keep up with the latest industry trends.
+### Lifelong Learner
+📚 Always Learning: I'm enthusiastic about learning new technologies and constantly expanding my skill set. Currently, I'm improving my English proficiency to better collaborate in international environments and stay ahead in the ever-evolving tech industry.
 
-### Projects
-
+Projects
 Check out some of my projects to see my work in action:
 
 Review my repository...
