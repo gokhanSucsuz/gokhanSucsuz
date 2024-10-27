@@ -18,8 +18,6 @@ Version Control & CI/CD: Git, GitHub
 
 🔹 State Management: With Redux and Zustand, I efficiently manage complex state and data flows, ensuring smooth and reactive user interactions.
 
-🔹 Cloud & DevOps: I leverage cloud platforms like AWS and containerization tools like Docker to deploy and manage scalable applications, ensuring high availability and performance.
-
 ### Lifelong Learner
 📚 Always Learning: I'm enthusiastic about learning new technologies and constantly expanding my skill set. Currently, I'm improving my English proficiency to better collaborate in international environments and stay ahead in the ever-evolving tech industry.
 
