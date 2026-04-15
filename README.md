@@ -30,5 +30,5 @@ Review my repository...
 
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out!
 
-- **Email**: gokhansucsuzgermany@gmail.com, coolpisces22@gmail.com
+- **Email**: gokhansucsuz@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gokhan-sucsuz-0912a4173/
